@@ -1,4 +1,3 @@
-/* To learn more about this file see: https://angular.io/config/tsconfig. */
 {
   "compileOnSave": false,
   "compilerOptions": {
@@ -19,7 +18,13 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "ng2-dnd": [
+        "dist/ng2-dnd/ng2-dnd",
+        "dist/ng2-dnd"
+      ]
+    }
   },
   "angularCompilerOptions": {
     "strictInjectionParameters": true,
