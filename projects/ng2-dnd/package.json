@@ -1,11 +1,38 @@
 {
   "name": "ng2-dnd",
-  "version": "0.0.1",
+  "description": "Angular 2 Drag-and-Drop without dependencies",
+  "version": "11.0.0",
+  "scripts": {
+    "ng": "ng",
+    "start": "ng serve",
+    "build": "ng build",
+    "test": "ng test",
+    "lint": "ng lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Alpharages/ng2-dnd.git"
+  },
+  "keywords": [
+    "angular",
+    "drag",
+    "drop",
+    "drag-and-drop"
+  ],
+  "author": "Alpharages <info@alpharages.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Alpharages/ng2-dnd/issues"
+  },
+  "homepage": "https://github.com/Alpharages/ng2-dnd#readme",
   "peerDependencies": {
-    "@angular/common": "^11.0.9",
-    "@angular/core": "^11.0.9"
+    "@angular/common": "^10.0.0 || ^11.0.9",
+    "@angular/core": "^10.0.0 || ^11.0.9"
   },
   "dependencies": {
     "tslib": "^2.0.0"
+  },
+  "engines": {
+    "npm": ">6.0.0"
   }
 }
