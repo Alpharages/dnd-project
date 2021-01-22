@@ -20,9 +20,9 @@
       "dom"
     ],
     "paths": {
-      "ng2-dnd": [
-        "dist/ng2-dnd/ng2-dnd",
-        "dist/ng2-dnd"
+      "dnd": [
+        "dist/dnd/dnd",
+        "dist/dnd"
       ]
     }
   },

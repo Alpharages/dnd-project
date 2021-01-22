@@ -1,5 +1,5 @@
 /*
- * Public API Surface of ng2-dnd
+ * Public API Surface of dnd
  */
 
 export * from './lib/dnd.module';

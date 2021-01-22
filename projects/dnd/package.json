@@ -1,7 +1,7 @@
 {
-  "name": "ng2-dnd",
-  "description": "Angular 2 Drag-and-Drop without dependencies",
-  "version": "11.0.0",
+  "name": "@alpharages/dnd",
+  "description": "Angular Drag-and-Drop without dependencies",
+  "version": "11.0.2",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
